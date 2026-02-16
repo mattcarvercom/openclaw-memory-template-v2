@@ -14,3 +14,136 @@
 [0;32m[2026-02-15 14:05:10][0m Searching for keywords: temporal memory, belief decay, AI consciousness
 [0;32m[2026-02-15 14:05:10][0m Simulated search results (replace with real arXiv API call)
 [0;32m[2026-02-15 14:05:10][0m Results saved to: /home/majinbu/pi-mono-workspace/openclaw-memory-template/research/daily/results_2026-02-15.md
+============================================================
+📚 arXiv Paper Fetcher
+============================================================
+📅 Started: 2026-02-16T09:00:01.368924
+📁 Research dir: /home/majinbu/pi-mono-workspace/openclaw-memory-template/research
+📋 Found 10 domains
+📁 Ensured directory: /home/majinbu/pi-mono-workspace/openclaw-memory-template/research/papers/Trading & Finance
+📁 Ensured directory: /home/majinbu/pi-mono-workspace/openclaw-memory-template/research/papers/Artificial Intelligence
+📁 Ensured directory: /home/majinbu/pi-mono-workspace/openclaw-memory-template/research/papers/Cognitive Science
+📁 Ensured directory: /home/majinbu/pi-mono-workspace/openclaw-memory-template/research/papers/Philosophy
+📁 Ensured directory: /home/majinbu/pi-mono-workspace/openclaw-memory-template/research/papers/Mathematics
+📁 Ensured directory: /home/majinbu/pi-mono-workspace/openclaw-memory-template/research/papers/Computer Science
+📁 Ensured directory: /home/majinbu/pi-mono-workspace/openclaw-memory-template/research/papers/Physics
+📁 Ensured directory: /home/majinbu/pi-mono-workspace/openclaw-memory-template/research/papers/Agentic Engineering
+📁 Ensured directory: /home/majinbu/pi-mono-workspace/openclaw-memory-template/research/papers/Biomimetic AI
+📁 Ensured directory: /home/majinbu/pi-mono-workspace/openclaw-memory-template/research/papers/Sakana AI Research
+
+🔍 Fetching papers for domain: Trading & Finance
+   Query: all:"quantitative finance" OR all:"algorithmic trading" OR all:"market microstructure"
+   Categories: ['q-fin.CP', 'q-fin.ST', 'q-fin.TR', 'econ.EM']
+   ✅ [1] 2602.12770v1: Efficient Monte Carlo Valuation of Corporate Bonds in Financ...
+   ✅ [2] 2602.12030v1: Time-Inhomogeneous Volatility Aversion for Financial Applica...
+   ✅ [3] 2602.11020v1: When Fusion Helps and When It Breaks: View-Aligned Robustnes...
+   📊 Found 3 papers
+   💾 Saved: 2602.12770v1_Efficient_Monte_Carlo_Valuation_of_Corporate_Bonds_in_Financial_Networks.md
+   ⏭️  Skipping 2602.12030v1 (already exists)
+   ⏭️  Skipping 2602.11020v1 (already exists)
+
+🔍 Fetching papers for domain: Artificial Intelligence
+   Query: all:"machine learning" OR all:"deep learning" OR all:"reinforcement learning"
+   Categories: ['cs.AI', 'cs.LG', 'cs.CV', 'cs.CL', 'cs.NE']
+   ✅ [1] 2602.13197v1: Imitating What Works: Simulation-Filtered Modular Policy Lea...
+   ✅ [2] 2602.13181v1: Selection of CMIP6 Models for Regional Precipitation Project...
+   ✅ [3] 2602.13177v1: Improved Regret Guarantees for Online Mirror Descent using a...
+   📊 Found 3 papers
+   ⏭️  Skipping 2602.13197v1 (already exists)
+   ⏭️  Skipping 2602.13181v1 (already exists)
+   ⏭️  Skipping 2602.13177v1 (already exists)
+
+🔍 Fetching papers for domain: Cognitive Science
+   Query: all:"cognitive science" OR all:"neuroscience" OR all:"human learning"
+   Categories: ['cs.AI', 'q-bio.NC', 'psychology']
+   ✅ [1] 2602.10224v1: Internalizing Meta-Experience into Memory for Guided Reinfor...
+   ✅ [2] 2602.08597v1: An Attention Mechanism for Robust Multimodal Integration in ...
+   ✅ [3] 2602.08275v2: Linguistics and Human Brain: A Perspective of Computational ...
+   📊 Found 3 papers
+   ⏭️  Skipping 2602.10224v1 (already exists)
+   ⏭️  Skipping 2602.08597v1 (already exists)
+   ⏭️  Skipping 2602.08275v2 (already exists)
+
+🔍 Fetching papers for domain: Philosophy
+   Query: all:"philosophy" OR all:"epistemology" OR all:"ethics"
+   Categories: ['physics.hist-ph', 'cs.AI']
+   ✅ [1] 2602.12873v1: Knowledge-Based Design Requirements for Generative Social Ro...
+   ✅ [2] 2602.12659v1: IndicFairFace: Balanced Indian Face Dataset for Auditing and...
+   ✅ [3] 2602.12476v1: Not a Silver Bullet for Loneliness: How Attachment and Age S...
+   📊 Found 3 papers
+   ⏭️  Skipping 2602.12873v1 (already exists)
+   ⏭️  Skipping 2602.12659v1 (already exists)
+   ⏭️  Skipping 2602.12476v1 (already exists)
+
+🔍 Fetching papers for domain: Mathematics
+   Query: all:"optimization" OR all:"probability" OR all:"statistics"
+   Categories: ['math.OC', 'math.ST', 'math.PR', 'math.GT']
+   ✅ [1] 2602.13177v1: Improved Regret Guarantees for Online Mirror Descent using a...
+   ✅ [2] 2602.13169v1: Operator Learning for Families of Finite-State Mean-Field Ga...
+   ✅ [3] 2602.13157v1: A Data-Driven Algorithm for Model-Free Control Synthesis...
+   📊 Found 3 papers
+   💾 Saved: 2602.13177v1_Improved_Regret_Guarantees_for_Online_Mirror_Descent_using_a_Portfolio_of_Mirror_Maps.md
+   💾 Saved: 2602.13169v1_Operator_Learning_for_Families_of_Finite-State_Mean-Field_Games.md
+   💾 Saved: 2602.13157v1_A_Data-Driven_Algorithm_for_Model-Free_Control_Synthesis.md
+
+🔍 Fetching papers for domain: Computer Science
+   Query: all:"distributed systems" OR all:"blockchain" OR all:"cryptography"
+   Categories: ['cs.DC', 'cs.CR', 'cs.DB', 'cs.DS']
+   ✅ [1] 2602.13167v1: Bloom Filter Look-Up Tables for Private and Secure Distribut...
+   ✅ [2] 2602.13156v1: In-Context Autonomous Network Incident Response: An End-to-E...
+   ✅ [3] 2602.13148v1: TrustMee: Self-Verifying Remote Attestation Evidence...
+   📊 Found 3 papers
+   💾 Saved: 2602.13167v1_Bloom_Filter_Look-Up_Tables_for_Private_and_Secure_Distributed_Databases_in_Web3_(Revised_Version).md
+   💾 Saved: 2602.13156v1_In-Context_Autonomous_Network_Incident_Response_An_End-to-End_Large_Language_Model_Agent_Approach.md
+   💾 Saved: 2602.13148v1_TrustMee_Self-Verifying_Remote_Attestation_Evidence.md
+
+🔍 Fetching papers for domain: Physics
+   Query: all:"quantum computing" OR all:"statistical mechanics" OR all:"chaos theory"
+   Categories: ['quant-ph', 'cond-mat', 'physics.comp-ph', 'nlin.AO']
+   ✅ [1] 2602.13145v1: Single snapshot non-Markovianity of Pauli channels...
+   ✅ [2] 2602.13095v1: Theory of Steady States for Lindblad Equations beyond Time-I...
+   ✅ [3] 2602.13050v1: Topology of the Fermi surface and universality of the metal-...
+   📊 Found 3 papers
+   💾 Saved: 2602.13145v1_Single_snapshot_non-Markovianity_of_Pauli_channels.md
+   💾 Saved: 2602.13095v1_Theory_of_Steady_States_for_Lindblad_Equations_beyond_Time-Independence_Classification,_Uniqueness_a.md
+   💾 Saved: 2602.13050v1_Topology_of_the_Fermi_surface_and_universality_of_the_metal-metal_and_metal-insulator_transitions_$d.md
+
+🔍 Fetching papers for domain: Agentic Engineering
+   Query: all:"agentic systems" OR all:"multi-agent architecture" OR all:"compound AI"
+   Categories: ['cs.AI', 'cs.MA', 'cs.LG']
+   ✅ [1] 2602.12517v1: Bench-MFG: A Benchmark Suite for Learning in Stationary Mean...
+   ✅ [2] 2602.12430v1: Agent Skills for Large Language Models: Architecture, Acquis...
+   ✅ [3] 2602.12315v1: AgenticShop: Benchmarking Agentic Product Curation for Perso...
+   📊 Found 3 papers
+   💾 Saved: 2602.12517v1_Bench-MFG_A_Benchmark_Suite_for_Learning_in_Stationary_Mean_Field_Games.md
+   💾 Saved: 2602.12430v1_Agent_Skills_for_Large_Language_Models_Architecture,_Acquisition,_Security,_and_the_Path_Forward.md
+   💾 Saved: 2602.12315v1_AgenticShop_Benchmarking_Agentic_Product_Curation_for_Personalized_Web_Shopping.md
+
+🔍 Fetching papers for domain: Biomimetic AI
+   Query: all:"bio-inspired AI" OR all:"liquid neural networks" OR all:"active inference"
+   Categories: ['cs.NE', 'cs.AI', 'q-bio.NC', 'nlin.AO']
+   ✅ [1] 2602.04208v1: SCALE: Self-uncertainty Conditioned Adaptive Looking and Exe...
+   ✅ [2] 2602.06997v1: Adaptive Temporal Dynamics for Personalized Emotion Recognit...
+   ✅ [3] 2601.12939v1: Active Inference-Driven World Modeling for Adaptive UAV Swar...
+   📊 Found 3 papers
+   ⏭️  Skipping 2602.04208v1 (already exists)
+   ⏭️  Skipping 2602.06997v1 (already exists)
+   ⏭️  Skipping 2601.12939v1 (already exists)
+
+🔍 Fetching papers for domain: Sakana AI Research
+   Query: all:"Sakana AI" OR all:"evolutionary model merge" OR all:"liquid neural networks"
+   Categories: ['cs.AI', 'cs.LG', 'cs.NE']
+   ✅ [1] 2602.06997v1: Adaptive Temporal Dynamics for Personalized Emotion Recognit...
+   ✅ [2] 2601.06780v1: Multi-Stage Evolutionary Model Merging with Meta Data Driven...
+   ✅ [3] 2601.06227v2: When Smaller Wins: Dual-Stage Distillation and Pareto-Guided...
+   📊 Found 3 papers
+   ⏭️  Skipping 2602.06997v1 (already exists)
+   ⏭️  Skipping 2601.06780v1 (already exists)
+   ⏭️  Skipping 2601.06227v2 (already exists)
+
+📊 Updated status: 46 total papers
+
+============================================================
+✅ Complete! Fetched 13 new papers
+📅 Finished: 2026-02-16T09:00:37.924061
+============================================================

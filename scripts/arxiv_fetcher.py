@@ -30,6 +30,9 @@ def load_domains() -> List[Dict]:
                 # Convert to list of dicts with 'key' field
                 domains = []
                 for key, value in data.items():
+                    # Skip entries without 'name' field (config objects)
+                    if 'name' not in value:
+                        continue
                     domain = value.copy()
                     domain['key'] = key
                     domains.append(domain)
